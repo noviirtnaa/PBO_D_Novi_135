@@ -35,7 +35,7 @@ class Mahasiswa {
         if (this.nama.equals(nama) && this.nim.equals(nim)) {
             displayInfo();
         } else {
-            System.out.println("Login gagal! Nama atau NIM salah.");
+            System.out.println("Login gagall! Nama atau NIM salah.");
         }
     }
 
