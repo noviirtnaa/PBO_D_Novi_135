@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Codelab/Codelab.iml" filepath="$PROJECT_DIR$/Codelab/Codelab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codelab/Modul 5/Modul 5.iml" filepath="$PROJECT_DIR$/Codelab/Modul 5/Modul 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Codelab/Modul 6/Modul 6.iml" filepath="$PROJECT_DIR$/Codelab/Modul 6/Modul 6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Codelab/Modul1/Modul1.iml" filepath="$PROJECT_DIR$/Codelab/Modul1/Modul1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Codelab/Modul2/Modul2.iml" filepath="$PROJECT_DIR$/Codelab/Modul2/Modul2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Codelab/Modul3/Modul3.iml" filepath="$PROJECT_DIR$/Codelab/Modul3/Modul3.iml" />
