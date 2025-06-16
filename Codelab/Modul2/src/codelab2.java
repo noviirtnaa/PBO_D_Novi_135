@@ -31,7 +31,11 @@ class RekeningBank {
 }
 
 
+<<<<<<< HEAD
 // Kelas codelab2
+=======
+// Kelas Codelab_2
+>>>>>>> a0102fbff4d995cefcb90cf33f74bbc1c4fc9488
 public class codelab2 {
     public static void main(String[] args) {
         // Membuat objek rekening1

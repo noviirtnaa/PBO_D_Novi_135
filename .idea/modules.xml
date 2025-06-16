@@ -3,15 +3,21 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Codelab/Codelab.iml" filepath="$PROJECT_DIR$/Codelab/Codelab.iml" />
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Codelab/Modul 5/Modul 5.iml" filepath="$PROJECT_DIR$/Codelab/Modul 5/Modul 5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Codelab/Modul 6/Modul 6.iml" filepath="$PROJECT_DIR$/Codelab/Modul 6/Modul 6.iml" />
+=======
+>>>>>>> a0102fbff4d995cefcb90cf33f74bbc1c4fc9488
       <module fileurl="file://$PROJECT_DIR$/Codelab/Modul1/Modul1.iml" filepath="$PROJECT_DIR$/Codelab/Modul1/Modul1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Codelab/Modul2/Modul2.iml" filepath="$PROJECT_DIR$/Codelab/Modul2/Modul2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Codelab/Modul3/Modul3.iml" filepath="$PROJECT_DIR$/Codelab/Modul3/Modul3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Codelab/Modul4/Modul4.iml" filepath="$PROJECT_DIR$/Codelab/Modul4/Modul4.iml" />
       <module fileurl="file://$PROJECT_DIR$/PBO_D_Novi_135.iml" filepath="$PROJECT_DIR$/PBO_D_Novi_135.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tugas/Tugas.iml" filepath="$PROJECT_DIR$/Tugas/Tugas.iml" />
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/praktek/praktek.iml" filepath="$PROJECT_DIR$/praktek/praktek.iml" />
+=======
+>>>>>>> a0102fbff4d995cefcb90cf33f74bbc1c4fc9488
     </modules>
   </component>
 </project>
